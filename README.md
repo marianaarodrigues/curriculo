@@ -1,2 +1,2 @@
 # curriculo
-Projeto simples de currículo
+Projeto simples de currículo.
